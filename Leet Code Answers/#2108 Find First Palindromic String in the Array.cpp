@@ -22,4 +22,4 @@ private:
         }
         return true;
     }
-};
+}; 
